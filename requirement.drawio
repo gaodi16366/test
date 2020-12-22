@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T05:35:28.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="JwtViWJYAVxcG78_Oy_4" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T05:38:05.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="EYTyBx_Uslal7BoohlTm" version="14.1.1" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="1422" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,8 +82,8 @@
         <mxCell id="V-zPVXptcWE3XgrfxsmW-29" value="FIX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="110" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="V-zPVXptcWE3XgrfxsmW-30" value="Quote Message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="20" width="40" height="20" as="geometry" />
+        <mxCell id="V-zPVXptcWE3XgrfxsmW-30" value="Mass Quote Message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="559" y="20" width="81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-zPVXptcWE3XgrfxsmW-32" value="TR Message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="40" height="20" as="geometry" />
