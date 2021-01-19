@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-19T08:35:22.790Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="_RNikW4LbhUfkbK9Y6YH" version="14.2.4" type="github">
+<mxfile modified="2021-01-19T08:36:27.847Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="p4GUJMDFskv3bR9-aVUu" version="14.2.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2591" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -103,8 +103,8 @@
             <mxPoint x="610" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3s7RUcdX__Vuix6ed2L-22" value="Daily Put" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="640" y="160" width="40" height="20" as="geometry" />
+        <mxCell id="E3s7RUcdX__Vuix6ed2L-22" value="(0)Daily put tar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E3s7RUcdX__Vuix6ed2L-23" value="" style="endArrow=classic;html=1;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UEzPUAAOIrF-is8g5C7q-84" target="E3s7RUcdX__Vuix6ed2L-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
